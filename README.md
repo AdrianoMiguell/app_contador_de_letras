@@ -1,3 +1,3 @@
-# devmob251117a
+# Contador de Letras
 
-A new Flutter project.
+Um aplicativo que conta quantas letras tem em um texto.
